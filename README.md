@@ -1,7 +1,7 @@
 # darkrp-refund-system
 Just a super simple darkrp addon that refunds players entities when the server crashes. 
 
-Has respawn option coded but not in the config/lang/derma menu. 
+Has respawn ents option (badly) coded but not in the config/lang/derma menu. 
 
 The fund menu should pop up automatically upon server crash/reconnect, but if it doesn't, try !refund in chat
 
